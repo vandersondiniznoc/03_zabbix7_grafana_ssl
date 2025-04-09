@@ -45,6 +45,8 @@ O Docker irá criar automaticamente a rede `nginx-proxy` e os certificados SSL s
 
 ---
 
+Altere o IP do Zabbix Agent na interface WEB 
+
 ## 📜 Créditos
 
 - [Zabbix Docker](https://hub.docker.com/u/zabbix)
